@@ -21,4 +21,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Lisence
-<span style="color:blue; text-decoration: underline;">MIT</span>
+[MIT](https://choosealicense.com/licenses/mit/)
